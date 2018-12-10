@@ -4,6 +4,13 @@ Test Functions to be used to evaluate the performance and characteristics of opt
 
 ![Alt text](images/Rastrigin.png?raw=true "Rastrigin Formula")
 
+## Usage
+
+```python
+rastrigin = Rastrigin()
+rastrigin.formula(1,1)
+```
+
 ## Single Objective Optimization Test Functions
 
 | Name | Plot | Class | Formula | Global Minimum | Bounds |
