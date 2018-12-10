@@ -15,6 +15,6 @@ rastrigin.formula(1,1)
 
 | Name | Plot | Class | Formula | Global Minimum | Bounds |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Rastrigin | <img src="images/Rastrigin.png?raw=true" width=140/> | `Rastrigin()` | <center><img src="images/latex/rastrigin.svg?raw=true"/><br><img src="images/latex/rastrigin2.svg?raw=true"/></center> | <img src="images/latex/rastrigin_global_min.svg?raw=true"/> | <img src="images/latex/rastrigin_search_domain.svg?raw=true"/> |
+| Rastrigin | <img src="images/Rastrigin.png?raw=true" width=140/> | `Rastrigin()` | <center><img src="images/latex/rastrigin.svg"/><br><img src="images/latex/rastrigin2.svg"/></center> | <img src="images/latex/rastrigin_global_min.svg"/> | <img src="images/latex/rastrigin_search_domain.svg"/> |
 | Hölder Table | <img src="images/HolderTable.png?raw=true" width=140/> | `HolderTable()` | todo | todo | todo |
 | Matyas | <img src="images/Matyas.png?raw=true" width=140/> | `Matyas()` | todo | todo | todo |
