@@ -14,7 +14,7 @@ class Rastrigin:
 
 class Ackley:
     def formula(self, x, y):
-        return -20*math.exp(-0.2*math.sqrt(0.5*(x**2 + y**2))) - math.exp(0.5**(math.cos(2**math.pi*x)+math.cos(2**math.pi**y))) + math.e + 20
+        return -20*math.exp(-0.2*math.sqrt(0.5*(x**2 + y**2))) - math.exp(0.5*(math.cos(2*math.pi*x)+math.cos(2*math.pi*y))) + math.e + 20
 
 class Sphere: 
     def formula(self, x):
