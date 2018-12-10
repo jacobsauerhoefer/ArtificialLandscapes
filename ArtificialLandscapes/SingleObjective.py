@@ -36,7 +36,7 @@ class Booth:
 
 class Matyas:
     def formula(self, x, y):
-        return 0.26*(x**2+y**2)-48**(x**y)
+        return 0.26*(x**2+y**2)-0.48*(x*y)
 
 class HolderTable:
     def formula(self, x, y):
